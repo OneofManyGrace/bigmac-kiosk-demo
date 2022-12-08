@@ -1,7 +1,7 @@
 import streamlit as st
 
-st.title("HeeRa Chung")
-st.title("21600674")
+st.text("HeeRa Chung")
+st.text("21600674")
 
 st.title("Order")
 
