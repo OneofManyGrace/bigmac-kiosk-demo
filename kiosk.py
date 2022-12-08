@@ -1,5 +1,8 @@
 import streamlit as st
 
+st.title("HeeRa Chung")
+st.title("21600674")
+
 st.title("Order")
 
 st.image("menu.png", width=300)
